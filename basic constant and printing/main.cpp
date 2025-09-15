@@ -1,14 +1,15 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     
 
-    printf("=== Basic Constants ===\n");
-    printf("Name    : %s\n", Sungwook);         // const char* 과 %s 사용
-    printf("Initial : %c\n", S);      // char 와 %c 사용
-    printf("Age     : %d\n", 28);          // int 와 %d 사용
-    printf("Score   : %.6lf\n", 93.5);      // float 와 %f 사용 (소수점 6자리)
-    printf("Count   : %u\n", 3000000000 );
+    printf("=== Basic Constants ===\n\n");
+    printf("Name\t : %s\n\n", "Sungwook");
+    printf("Initial\t : %c\n\n", 'S');
+    printf("Age   : %d\n\n", 28); 
+    printf("Score  \t : %.6lf\n\n", 93.5); 
+    printf("Count  \t : %u\n\n", 3000000000 );
 	
 	return 0;
 }
