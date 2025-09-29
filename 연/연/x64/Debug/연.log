@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\Cju\Documents\GitHub\-2025-\연\main.cpp(3,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\Cju\Documents\GitHub\-2025-\연\main.cpp(5,16): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\Cju\Documents\GitHub\-2025-\연\main.cpp(13,8): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'unsigned int'입니다.
+C:\Users\Cju\Documents\GitHub\-2025-\연\main.cpp(13,55): warning C4474: 'scanf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+      C:\Users\Cju\Documents\GitHub\-2025-\연\main.cpp(13,55):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 4개가 제공되었습니다.
+  
+C:\Users\Cju\Documents\GitHub\-2025-\연\main.cpp(15,9): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\Cju\Documents\GitHub\-2025-\연\main.cpp(15,9): warning C4313: 'printf': 서식 문자열의 '%c'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\Cju\Documents\GitHub\-2025-\연\main.cpp(13,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
