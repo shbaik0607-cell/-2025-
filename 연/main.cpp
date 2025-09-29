@@ -1,4 +1,5 @@
 #include <stdio.h>
+#define _CRT_SECURE_NO_WARNINGS
 
 main(void) {
 	int nAge = 99;
