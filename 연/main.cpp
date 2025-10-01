@@ -1,7 +1,9 @@
-#include <stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
+#pragma warning(disable: 4996)
+#include <stdio.h>
 
-main(void) {
+
+int main(void) {
 	int nAge = 99;
 	float fHeight = 999.01;
 	double dWeight = 999.0;
