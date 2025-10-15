@@ -10,10 +10,12 @@ int main(void) {
 	double weight = 68.2;// 1: 변수 선언(이름 학번 키 몸무게)
 	double bmi = weight * height;
 
+	printf("Enter your name, student ID, height(m), weight(kg): ");
 	scanf("%s %d %lf %lf", name, &studentid, &height, &weight);// 2. scanf 또는 scanf_s로 위 정보를 한 줄로 입력 받기
+	printf
 	printf("bmi: %.2f\n", bmi);// 3. bmi 수치 계산
 	// 4-1. 결과 출력(이름, 학번, 키, 몸무게)
-	// 4-2. bmi 수치에 따른 결과 출력
+	// 4-2. bmi 수치에 따른 결과 출력	
 
 	return 0;
 }
