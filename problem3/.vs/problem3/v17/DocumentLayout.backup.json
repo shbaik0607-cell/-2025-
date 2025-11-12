@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gtwh7356\\OneDrive\\\uBB38\uC11C\\GitHub\\-2025-\\problem3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4156AB2A-C150-47B0-9FFC-EA91B2DF87AB}|problem3\\problem3.vcxproj|C:\\Users\\gtwh7356\\OneDrive\\\uBB38\uC11C\\GitHub\\-2025-\\problem3\\problem3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4156AB2A-C150-47B0-9FFC-EA91B2DF87AB}|problem3\\problem3.vcxproj|solutionrelative:problem3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\gtwh7356\\OneDrive\\\uBB38\uC11C\\GitHub\\-2025-\\problem3\\problem3\\main.cpp",
+              "RelativeDocumentMoniker": "problem3\\main.cpp",
+              "ToolTip": "C:\\Users\\gtwh7356\\OneDrive\\\uBB38\uC11C\\GitHub\\-2025-\\problem3\\problem3\\main.cpp",
+              "RelativeToolTip": "problem3\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-28T23:06:42.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
