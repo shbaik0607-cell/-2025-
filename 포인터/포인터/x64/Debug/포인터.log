@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Cju\Documents\GitHub\-2025-\포인터\main.cpp(26,11): error C2065: 'pnA': 선언되지 않은 식별자입니다.
+C:\Users\Cju\Documents\GitHub\-2025-\포인터\main.cpp(27,3): error C2065: 'pnA': 선언되지 않은 식별자입니다.
+C:\Users\Cju\Documents\GitHub\-2025-\포인터\main.cpp(27,10): error C2065: 'pnB': 선언되지 않은 식별자입니다.
+C:\Users\Cju\Documents\GitHub\-2025-\포인터\main.cpp(28,3): error C2065: 'pnB': 선언되지 않은 식별자입니다.
