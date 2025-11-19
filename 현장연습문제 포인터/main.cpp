@@ -1,55 +1,43 @@
 #include <stdio.h>
 
-typedef struct {
-    double x;
-    double y;
-} Point;
-
-
-void calculate_line_parameters(const Point* p1, const Point* p2, double* slope, double* bias) {
-   
-    if (p2->x != p1->x) {
-        *slope = (p2->y - p1->y) / (p2->x - p1->x);
-    }
-    else {
-     
-        *slope = 0.0; 
-    }
-
-    
-    *bias = p1->y - (*slope) * p1->x;
-}
 
 int main(void) {
     
-    double p1_coords[2]; 
-    double p2_coords[2]; 
+    double x1, y1;
+    double x2, y2;
 
-    double calculated_slope;
-    double calculated_bias;
+    double slope;
+    double bias;
 
-    
-    printf("Input 1st point information:\n");
-    if (scanf_s("%lf %lf", &p1_coords[0], &p1_coords[1]) != 2) {
+    printf("Input 1st point (x y): ");
+    if (scanf_s("%lf %lf", &x1, &y1) != 2) {
+        printf("Invalid input for 1st point.\n");
+        return 1;
+    }
+
+    printf("Input 2nd point (x y): ");
+    if (scanf_s("%lf %lf", &x2, &y2) != 2) {
+        printf("Invalid input for 2nd point.\n");
+        return 1;
+    }
+
+    if (x2 != x1) {
+        slope = (y2 - y1) / (x2 - x1);
+    }
+    else {
+        slope = 0.0;
         
-        return 1;
     }
 
-    printf("\nInput 2nd point information:\n");
-    if (scanf_s("%lf %lf", &p2_coords[0], &p2_coords[1]) != 2) {
-       
-        return 1;
-    }
+    bias = y1 - slope * x1;
 
-    Point p1 = { p1_coords[0], p1_coords[1] };
-    Point p2 = { p2_coords[0], p2_coords[1] };
+    printf("\n");
+    printf("Input 1st point information: %.4lf %.4lf\n", x1, y1);
+    printf("Input 2nd point information: %.4lf %.4lf\n", x2, y2);
 
-    calculate_line_parameters(&p1, &p2, &calculated_slope, &calculated_bias);
-
-    
     printf("\nCalculated Output. line equation:\n");
-    printf("slope: %.4lf\n", calculated_slope);
-    printf("bias: %.4lf\n", calculated_bias);
+    printf("slope: %.4lf\n", slope);
+    printf("bias: %.4lf\n", bias);
 
     return 0;
 }
