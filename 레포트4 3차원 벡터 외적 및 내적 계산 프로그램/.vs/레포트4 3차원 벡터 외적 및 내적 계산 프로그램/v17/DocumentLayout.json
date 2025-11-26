@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gtwh7356\\OneDrive\\\uBB38\uC11C\\GitHub\\-2025-\\\uB808\uD3EC\uD2B84 3\uCC28\uC6D0 \uBCA1\uD130 \uC678\uC801 \uBC0F \uB0B4\uC801 \uACC4\uC0B0 \uD504\uB85C\uADF8\uB7A8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB55E00A-5265-4AE2-99AF-436BCEFC1491}|\uB808\uD3EC\uD2B84 3\uCC28\uC6D0 \uBCA1\uD130 \uC678\uC801 \uBC0F \uB0B4\uC801 \uACC4\uC0B0 \uD504\uB85C\uADF8\uB7A8\\\uB808\uD3EC\uD2B84 3\uCC28\uC6D0 \uBCA1\uD130 \uC678\uC801 \uBC0F \uB0B4\uC801 \uACC4\uC0B0 \uD504\uB85C\uADF8\uB7A8.vcxproj|C:\\Users\\gtwh7356\\OneDrive\\\uBB38\uC11C\\GitHub\\-2025-\\\uB808\uD3EC\uD2B84 3\uCC28\uC6D0 \uBCA1\uD130 \uC678\uC801 \uBC0F \uB0B4\uC801 \uACC4\uC0B0 \uD504\uB85C\uADF8\uB7A8\\\uB808\uD3EC\uD2B84 3\uCC28\uC6D0 \uBCA1\uD130 \uC678\uC801 \uBC0F \uB0B4\uC801 \uACC4\uC0B0 \uD504\uB85C\uADF8\uB7A8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB55E00A-5265-4AE2-99AF-436BCEFC1491}|\uB808\uD3EC\uD2B84 3\uCC28\uC6D0 \uBCA1\uD130 \uC678\uC801 \uBC0F \uB0B4\uC801 \uACC4\uC0B0 \uD504\uB85C\uADF8\uB7A8\\\uB808\uD3EC\uD2B84 3\uCC28\uC6D0 \uBCA1\uD130 \uC678\uC801 \uBC0F \uB0B4\uC801 \uACC4\uC0B0 \uD504\uB85C\uADF8\uB7A8.vcxproj|solutionrelative:\uB808\uD3EC\uD2B84 3\uCC28\uC6D0 \uBCA1\uD130 \uC678\uC801 \uBC0F \uB0B4\uC801 \uACC4\uC0B0 \uD504\uB85C\uADF8\uB7A8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\gtwh7356\\OneDrive\\\uBB38\uC11C\\GitHub\\-2025-\\\uB808\uD3EC\uD2B84 3\uCC28\uC6D0 \uBCA1\uD130 \uC678\uC801 \uBC0F \uB0B4\uC801 \uACC4\uC0B0 \uD504\uB85C\uADF8\uB7A8\\\uB808\uD3EC\uD2B84 3\uCC28\uC6D0 \uBCA1\uD130 \uC678\uC801 \uBC0F \uB0B4\uC801 \uACC4\uC0B0 \uD504\uB85C\uADF8\uB7A8\\main.cpp",
+              "RelativeDocumentMoniker": "\uB808\uD3EC\uD2B84 3\uCC28\uC6D0 \uBCA1\uD130 \uC678\uC801 \uBC0F \uB0B4\uC801 \uACC4\uC0B0 \uD504\uB85C\uADF8\uB7A8\\main.cpp",
+              "ToolTip": "C:\\Users\\gtwh7356\\OneDrive\\\uBB38\uC11C\\GitHub\\-2025-\\\uB808\uD3EC\uD2B84 3\uCC28\uC6D0 \uBCA1\uD130 \uC678\uC801 \uBC0F \uB0B4\uC801 \uACC4\uC0B0 \uD504\uB85C\uADF8\uB7A8\\\uB808\uD3EC\uD2B84 3\uCC28\uC6D0 \uBCA1\uD130 \uC678\uC801 \uBC0F \uB0B4\uC801 \uACC4\uC0B0 \uD504\uB85C\uADF8\uB7A8\\main.cpp",
+              "RelativeToolTip": "\uB808\uD3EC\uD2B84 3\uCC28\uC6D0 \uBCA1\uD130 \uC678\uC801 \uBC0F \uB0B4\uC801 \uACC4\uC0B0 \uD504\uB85C\uADF8\uB7A8\\main.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-25T11:10:03.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
