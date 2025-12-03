@@ -55,7 +55,7 @@ void PrintArray(const double* arr, int size, const char* title) {
     printf("[");
     for (int i = 0; i < size; i++) {
         // 배열 접근: arr[i] 또는 *(arr + i)
-        printf(" %.4lf", *(arr + i));
+        printf(" %.1lf", *(arr + i));
         if (i < size - 1) {
             printf(",");
         }
